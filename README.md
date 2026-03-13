@@ -1,1 +1,11 @@
-# humanitarniturnirtcc.github.io
+Liga protiv raka PGŽ
+
+Grivica 4, 51000 Rijeka
+
+IBAN: HR2324020061100136172 (Erste bank)
+
+Poziv na broj: 27-03-2026
+
+Opis plaćanja: Donacija za rad Lige i klubova
+
+![Barcode](pgz-barcode.jpeg)
