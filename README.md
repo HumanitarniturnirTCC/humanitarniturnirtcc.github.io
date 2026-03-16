@@ -8,4 +8,4 @@ Model: HR00 Poziv na broj: 27-03-2026
 
 Opis plaćanja: Donacija za rad Lige i klubova
 
-![Barcode](pgz-barcode-new.jpeg)
+![Barcode](pgz-barcode.jpeg)
